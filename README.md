@@ -64,8 +64,7 @@ If you use this dataset, please cite below publications-<br>
 <br>
 
 <h3>2. Create master dataset</h3>
-Please download <a href="https://www.kaggle.com/datasets/sbilab/segpc2021dataset"></a>
-<b>SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images</b></a>, and expand it 
+Please download <a href="https://www.kaggle.com/datasets/sbilab/segpc2021dataset"><b>SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images</b></a>, and expand it 
 in your working directory. It contains three subsets as shown below.
 <br>
 
@@ -80,7 +79,7 @@ in your working directory. It contains three subsets as shown below.
     ├─x
     └─y
 </pre>
-Each x in those subset contains Multiple Myeloma Plasma Cells images files , and y annotations (mask) files
+Each x in those subsets contains Multiple Myeloma Plasma Cells images files, and y annotations (mask) files
 of 2K pixels.
 <br>
 <b> train x samples</b>:<br>
